@@ -10,27 +10,27 @@ Edit this readme to clearly show your progress.
 Replace --to do -- with *** done ***
 
 ## Component 1 Logbook
-01 Module Introduction --to do --
+[01 Module Introduction](https://github.com/Level4-ICP/Exercises/blob/main/01Introduction.md) --to do --
 
-02 Variables and datatypes, operators. --to do --
+[02 Variables, datatypes and operators](https://github.com/Level4-ICP/Exercises/blob/main/02DataTypes.md) --to do --
 
-03 Control flow. Functions and modular programming. Variable scope. --to do --
+[03 Control flow. Functions and modular programming. Variable scope](https://github.com/Level4-ICP/Exercises/blob/main/03ControlFlow.md) --to do --
 
-04 User-defined datatypes, structs, unions, and typedefs. --to do --
+[04 User-defined datatypes, structs, unions, and typedefs](https://github.com/Level4-ICP/Exercises/blob/main/04UserDefinedTypes.md) --to do --
 
-05 Reading week (no classes, attendance not required). --to do --
+05 Reading week (no classes, attendance not required) --to do --
 
-06 Understanding the development process, applying divide and conquer, designing algorithms. --to do --
+[06 Understanding the development process, applying divide and conquer, designing algorithms](https://github.com/Level4-ICP/Exercises/blob/main/06ImplementingSolutions.md) --to do --
 
-07 Pointers and memory addressing. Arrays and pointer arithmetic. Command Line Arguments. --to do --
+[07 Pointers and memory addressing. Arrays and pointer arithmetic. Command Line Arguments](https://github.com/Level4-ICP/Exercises/blob/main/07ArraysAndPointers.md) --to do --
 
-08 Dynamic memory allocation, managing memory. Stack vs Heap. --to do --
+[08 Memory Management](https://github.com/Level4-ICP/Exercises/blob/main/08MemoryManagement.md) --to do --
 
-09 The standard library, string functions, math lib, error handling. --to do --
+[09 The standard library, string functions, math lib, error handling](https://github.com/Level4-ICP/Exercises/blob/main/09StandardLibraries.md) --to do --
 
-10 File handling, text vs binary files. --to do --
+[10 File handling, text vs binary files](https://github.com/Level4-ICP/Exercises/blob/main/10Files.md) --to do --
 
-11 Data Structures, lists, queues, stacks. --to do --
+[11 Data Structures, lists, queues, stacks ](https://github.com/Level4-ICP/Exercises/blob/main/11DataStructures.md) --to do --
 
 ## Component 2 Programming Project
 
